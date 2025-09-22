@@ -8,7 +8,7 @@ Below are a few highlights — feel free to explore my repos or reach out!
 
 ## 📂 Coursework
 My academic background combines data science, programming, and applied data journalism. Highlights include:
-- **Knight Lab: Studio (Medill School for Journalism)**: currently collaborating with four peers on a faculty-supervised project, developing a *Local Coverage Tracker* tool that scrapes and analyzes local news to detect bias and underrepresentation
+- **Knight Lab: Studio (Medill School of Journalism)**: currently collaborating with four peers on a faculty-supervised project, developing a *Local Coverage Tracker* tool that scrapes and analyzes local news to detect bias and underrepresentation
 - **Data Science sequence in R (3 courses):** statistical modeling, natural language processing, feature engineering, and predictive analytics 
 - **Scientific Programming in Python**: implemented linear algebra and complex math algorithms in Python, data cleaning for large research datasets
 - **Introduction to Programming for Data Science**: applied Python and R to data cleaning, exploratory analysis, and basic machine learning workflows  
