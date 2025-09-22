@@ -29,7 +29,6 @@ My academic background combines data science, programming, and applied data jour
 
 ## 📫 Contact
 - LinkedIn: [https://www.linkedin.com/in/jillian-moore26/](https://www.linkedin.com/in/jillian-moore26/)
-- Email: jillianmoore2004@gmail.com
 
 ---
 
