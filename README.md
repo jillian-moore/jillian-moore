@@ -1,6 +1,6 @@
 # Welcome! I'm Jillian Moore.
 
-I’m a double major in Economics and Journalism major and Data Science minor at Northwestern University.  
+I’m double majoring in Economics and Journalism and minoring in Data Science at Northwestern University.  
 
 Below are a few highlights — feel free to explore my repos or reach out!
 
