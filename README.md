@@ -18,7 +18,7 @@ My academic background combines data science, programming, and applied data jour
 - **Languages:** Python, R, Stata
 - **Data & ML Libraries:** pandas, numpy, tidyverse, tidymodels, BeautifulSoup  
 - **Visualization:** ggplot2, matplotlib, Shiny, interactive dashboards  
-- **Tools:** Git/GitHub, RStudio, Jupyter, VS Code
+- **Tools:** Git/GitHub, RStudio, Jupyter
 
 ## ⭐ Featured Projects
 - **Knight Lab: Local Coverage Tracker** — Designing a Shiny dashboard and API-based data pipeline to analyze thousands of news articles for representation and bias
