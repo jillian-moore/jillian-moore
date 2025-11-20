@@ -29,10 +29,10 @@ My academic background combines data science, programming, and applied data jour
 
 (See **Pinned** repositories on my profile for full project code and write-ups.)
 
-## 📫 Contact
+## Contact
 - LinkedIn: [https://www.linkedin.com/in/jillian-moore26/](https://www.linkedin.com/in/jillian-moore26/)
 
 ---
 
-Thanks for stopping by! I’m actively looking for work post-graduation (June 2026) and am open to coffee chats.
+Thanks for stopping by!
 
