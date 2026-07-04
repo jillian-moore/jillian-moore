@@ -1,14 +1,14 @@
 # Welcome! I'm Jillian Moore.
 
-I’m a student at Northwestern University pursuing a double major in Economics and Journalism with a minor in Data Science.
+I'm a Northwestern University Class of 2026 graduate with a double major in Economics and Journalism and a minor in Data Science.
 
-Below are a few highlights — feel free to explore my repos or reach out!
+Feel free to explore my repos!
 
 ---
 
 ## Coursework
 My academic background combines data science, programming, and applied data journalism. Highlights include:
-- **Knight Lab: Studio (Medill School of Journalism)**: currently collaborating with four peers on a faculty-supervised project, developing a *Local Coverage Tracker* tool that scrapes and analyzes local news to detect bias and underrepresentation
+- **Knight Lab: Studio (Medill School of Journalism)**: collaborated with four peers on a faculty-supervised project, developing a *Local Coverage Tracker* tool that scrapes and analyzes local news to detect bias and underrepresentation
 - **Scientific Programming in Python**: implemented linear algebra and complex math algorithms in Python, data cleaning for large research datasets
 - **Data Science sequence in R (3 courses):** statistical modeling, natural language processing, feature engineering, predictive analytics
 - **Advanced Econometrics**: conducted regression analyses, applied econometric methods such as Difference-in-Differences, replicated economic research papers (primarily using Stata)
