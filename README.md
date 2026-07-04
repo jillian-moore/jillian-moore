@@ -21,7 +21,7 @@ My academic background combines data science, programming, and applied data jour
 - **Regression & Classification Prediction Projects** — Built pipelines for text classification and regression tasks: data cleaning, feature engineering, model comparison, and error analysis in a competitive class leaderboard 
 - **Austin Animal Shelter and Illinois Report Card Analysis Projects** — Produced interactive and static visualizations, performed cross-tab analysis, and created polished dashboards for communicating insights
 
-(See **Pinned** repositories on my profile for full project code and write-ups.)
+(See pinned repositories on my profile for full project code and write-ups.)
 
 ## Contact
 - LinkedIn: [https://www.linkedin.com/in/jillian-moore26/](https://www.linkedin.com/in/jillian-moore26/)
